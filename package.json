@@ -23,7 +23,8 @@
     "react-native-fieldset": "^1.0.3",
     "react-native-modern-datepicker": "^1.0.0-beta.91",
     "react-native-responsive-screen": "^1.4.2",
-    "react-native-swiper": "^1.6.0"
+    "react-native-swiper": "^1.6.0",
+    "expo-dev-client": "~2.4.13"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
